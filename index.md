@@ -4,6 +4,6 @@ subtitle: Müller Systems
 layout: page
 callouts: home_callouts
 show_sidebar: false
-hero_height: is-medium
+hero_height: is-fullwidth
 ---
 
