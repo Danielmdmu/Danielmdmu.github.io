@@ -53,7 +53,9 @@ defaults:
       path: ""
       type: "pages"
     values:
-      show_sidebar: true
+      show_sidebar: false
+      hero_height: is-fullwidth
+      hero_darken: true
   -
     scope:
       path: ""

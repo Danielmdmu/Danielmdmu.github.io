@@ -1,6 +1,6 @@
 ---
 title: Müller Systems
-subtitle: Müller Systems
+subtitle: Dies ist die Homepage von Müller Systems
 layout: page
 callouts: home_callouts
 show_sidebar: false
