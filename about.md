@@ -1,4 +1,7 @@
 ---
 layout: page
-title: about
+title: About
 ---
+
+# Über mich
+
