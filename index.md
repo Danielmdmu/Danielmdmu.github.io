@@ -5,6 +5,6 @@ layout: page
 callouts: home_callouts
 show_sidebar: false
 hero_height: is-fullwidth
-hide_footer: true
+hero_darken: true
 ---
 
