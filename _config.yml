@@ -56,7 +56,6 @@ defaults:
       show_sidebar: false
       hero_height: is-fullwidth
       hero_darken: true
-      hide_footer: true
   -
     scope:
       path: ""
