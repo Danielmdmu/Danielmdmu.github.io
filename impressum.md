@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Impressum"
+---
+
 <div class='impressum'>
     <h1>Impressum</h1>
     <p>Angaben gemäß § 5 TMG</p>
