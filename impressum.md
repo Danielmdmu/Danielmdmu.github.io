@@ -4,9 +4,8 @@ title: "Impressum"
 ---
 
 <div class='impressum'>
-    <h1>Impressum</h1>
     <p>Angaben gemäß § 5 TMG</p>
-    <p>Daniel Müller
+    <p>Daniel Müller Systems
         <br> Seelagraben 1
         <br> 96103 Hallstadt
         <br>
