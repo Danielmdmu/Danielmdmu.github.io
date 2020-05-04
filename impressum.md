@@ -23,7 +23,7 @@ title: "Impressum"
     </p>
     <p>
         <strong>Umsatzsteuer-ID: </strong>
-        <br> Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: 12345
+        <br> Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: noch nicht erteilt
         <br>
         <br>
     </p>
