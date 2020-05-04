@@ -20,7 +20,6 @@ title: "Impressum"
         <br> Telefon: 0176-23476978
         <br> E-Mail:
         <a href='mailto:post@mailbox.org'>post@mailbox.org</a>
-        </br>
     </p>
     <p>
         <strong>Umsatzsteuer-ID: </strong>
