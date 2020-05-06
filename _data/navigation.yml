@@ -1,3 +1,5 @@
 - name: Impressum
   link: /impressum/
-
+  
+- name: Lebenslauf
+  link: /online-cv/
