@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Impressum"
+hide_footer: true
 ---
 
 <div class='impressum'>
