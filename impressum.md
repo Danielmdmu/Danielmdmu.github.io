@@ -24,7 +24,7 @@ hide_footer: true
     </p>
     <p>
         <strong>Umsatzsteuer-ID: </strong>
-        <br> Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: noch nicht erteilt
+        <br> Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: DE329822192
         <br>
         <br>
     </p>
