@@ -1,8 +1,10 @@
-- name: Über mich
+- name: Leistungen
   link: /about/
+
+- name: Technologien
+  link: /technology
   
 - name: Lebenslauf
   link: /online-cv/
 
-- name: Technologien
-  link: /technology
+
