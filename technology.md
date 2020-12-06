@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Meine Leistungen
+title: Technologien
 hide_hero: true
 ---
 

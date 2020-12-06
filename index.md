@@ -7,6 +7,6 @@ show_sidebar: false
 hero_darken: true
 hero_height: is-large
 hero_link: /about/
-hero_link_text: Über mich
+hero_link_text: Leistungen
 ---
 
