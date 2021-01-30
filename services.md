@@ -5,7 +5,17 @@ hide_hero: true
 ---
 
 
-# Gruppe A
+## Softwareentwicklung
+- Entwicklung von Software im .NET-Umfeld
 
-# Gruppe B
+
+## Identity und Access Management
+- Entwurf und Planung von IAM-Lösungen
+
+
+
+
+
+
+
 
