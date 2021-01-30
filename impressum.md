@@ -18,7 +18,7 @@ hide_footer: true
     </p>
     <p>
         <strong>Kontakt:</strong>
-        <br> Telefon: 0176-23476978
+        <br> Telefon: +49 15678 383035
         <br> E-Mail:
         <a href='mailto:post@mailbox.org'>post@mailbox.org</a>
     </p>
