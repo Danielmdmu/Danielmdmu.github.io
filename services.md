@@ -5,10 +5,12 @@ hide_hero: true
 ---
 
 
-## Softwareentwicklung
+## Softwaretechnik bzw. Softwareengineering
 - Entwicklung von Software im .NET-Umfeld
     - WPF
     - ASP
+- Requirements Engineering
+- Projektmanagement
 
 
 ## Identity und Access Management
@@ -18,14 +20,17 @@ hide_hero: true
 ## Digitaliserung
 - Digitalisierung von Geschäftsprozessen
 
-
+## Beratung
+- Hilfe Bei der Auswahl von Softwaresystmenen (z.B. ERP)
+- Geschäftsprozessmodellierung
 
 Neben den oben genannten Tätigkeiten, bin ich immer auf der Suche nach Projekten in denen ich neue Dinge dazu lernen kann bzw. vertiefen kann. 
 
 Darunter fallen folgende Themen: 
 
-- Web-Entwicklung mit Angular
-- Web-Entwicklung mit React
+- Frontend mit Angular
+- Frontend mit React
+- Frontend mit Blazor
 - Backend-Entwicklung mit Go
 
 
