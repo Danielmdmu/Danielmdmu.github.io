@@ -18,7 +18,10 @@ hide_hero: true
 - Planung und Umsetzung von Single-Sign-On-Konzepten
 
 ## Digitaliserung
-- Digitalisierung von Geschäftsprozessen
+- Digitalisierung von Geschäftsprozessen im Unternehmen
+- Digitalisierung von Geschäfstprozessen über die Unternehmensgrenzen hinaus
+- Digitalisierung im B2C-Umfeld
+- Digitalisierung im B2B-Umfeld
 
 ## Beratung
 - Hilfe Bei der Auswahl von Softwaresystmenen (z.B. ERP)
