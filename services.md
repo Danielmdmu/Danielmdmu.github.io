@@ -2,6 +2,7 @@
 layout: page
 title: Meine Leistungen
 hide_hero: true
+toc: true
 ---
 
 
