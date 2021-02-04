@@ -3,6 +3,7 @@ layout: page
 title: Meine Leistungen
 hide_hero: true
 toc: true
+toc_title: Leistungen
 ---
 
 
