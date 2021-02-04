@@ -2,7 +2,7 @@
 layout: page
 title: Meine Leistungen
 hide_hero: true
-toc: true
+menubar_toc: true
 toc_title: Leistungen
 ---
 
