@@ -20,7 +20,7 @@ hide_footer: true
         <strong>Kontakt:</strong>
         <br> Telefon: +49 15678 383035
         <br> E-Mail:
-        <a href='mailto:post@xn--mller-systems-wob.de'>post@müller-systems.org</a>
+        <a href='mailto:post@xn--mller-systems-wob.de'>post@müller-systems.de</a>
     </p>
     <p>
         <strong>Umsatzsteuer-ID: </strong>
