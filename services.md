@@ -5,6 +5,7 @@ hide_hero: true
 toc: true
 toc_title: Leistungen
 ---
+# Leistungen
 
 
 ## Softwaretechnik bzw. Softwareengineering
@@ -19,14 +20,14 @@ toc_title: Leistungen
 - Entwurf und Planung von IAM-Lösungen
 - Planung und Umsetzung von Single-Sign-On-Konzepten
 
-## Digitaliserung
+## Digitalisierung
 - Digitalisierung von Geschäftsprozessen im Unternehmen
-- Digitalisierung von Geschäfstprozessen über die Unternehmensgrenzen hinaus
+- Digitalisierung von Geschäftsprozessen über die Unternehmensgrenzen hinaus
 - Digitalisierung im B2C-Umfeld
 - Digitalisierung im B2B-Umfeld
 
 ## Beratung
-- Hilfe Bei der Auswahl von Softwaresystmenen (z.B. ERP)
+- Hilfe Bei der Auswahl von Softwaresystemen (z.B. ERP)
 - Geschäftsprozessmodellierung
 
 ## Cloud
@@ -46,6 +47,11 @@ Darunter fallen folgende Themen:
 - Frontend mit React
 - Frontend mit Blazor
 - Backend-Entwicklung mit Go
+
+## Eigene (Spiel-) Projekte
+
+- Frontend mit Blazor, Backend mit Azure Functions
+- Vergleich von Pulumi vs Terraform vs Azure Blueprint
 
 
 
