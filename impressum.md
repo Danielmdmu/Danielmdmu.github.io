@@ -7,8 +7,8 @@ hide_footer: true
 <div class='impressum'>
     <p>Angaben gemäß § 5 TMG</p>
     <p>Daniel Müller Systems
-        <br> Seelagraben 1
-        <br> 96103 Hallstadt
+        <br> Buhlheller Straße 2
+        <br> 97437 Haßfurt
         <br>
     </p>
     <p>
